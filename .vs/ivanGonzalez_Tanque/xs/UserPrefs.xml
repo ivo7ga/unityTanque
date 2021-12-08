@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{BBD22F26-5B6F-456E-0B3D-6D1ACCD61C09}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/controlTanque.cs">
+    <Files>
+      <File FileName="Assets/Script/controlTanque.cs" Line="50" Column="14" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ivanGonzalez_Tanque" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="controlTanque.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="98e989f8-1e32-48d5-bb95-f73a58f6eccd" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
